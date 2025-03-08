@@ -1,1 +1,5 @@
-
+titile: Zahir Razzaz
+logo: /assets/img/headshot_circle
+description: 
+show_downloads: true
+theme: jekyll_theme_minimal

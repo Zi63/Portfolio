@@ -1,5 +1,5 @@
 # Portfolio
-
+![profile](/assets/img/profile.)
 ###Data Scoentost
 
 ###work experience 

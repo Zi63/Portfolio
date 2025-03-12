@@ -1,3 +1,5 @@
+![Zahir Razzaz](https://raw.githubusercontent.com/Zi63/Portfolio/main/profile-pic.jpg)
+
 # 👋 Hello, 
 
 ## 🚀  Data Scientist | Gen AI | Investor | R&D Leader | Materials Scientist 

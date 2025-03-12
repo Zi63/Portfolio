@@ -21,7 +21,7 @@ I am a Data Scientist with 13+ years of experience in Engineering, Science, and 
 
 ---
 
-##Soft Skills
+## Soft Skills
 
 Research, Communication, Accountability, Initiative, Collaboration, Critical Thinking, Passion, Presentation, Project Delivery, Idea Generation
 

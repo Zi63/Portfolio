@@ -1,4 +1,4 @@
-![Zahir Razzaz](https://raw.githubusercontent.com/Zi63/Portfolio/main/profile-pic.jpg)
+![Zahir Razzaz](https://raw.githubusercontent.com/assets/Portfolio/main/profile-pic.jpg)
 
 # 👋 Hello, 
 

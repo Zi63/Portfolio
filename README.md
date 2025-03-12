@@ -1,13 +1,10 @@
-# 👋 Hello, I'm Zahir Razzaz!
+# 👋 Hello, 
 
 ## 🚀 Data Scientist | Data Engineer | Investor | R&D Leader | Materials Scientist 
 
 🔬 **About Me:**  
-I am a **Data Scientist with 13+ years of experience** in **AI, Machine Learning, and Materials Science**, based in **Toronto, Canada**. With expertise in **data-driven decision-making**, **predictive modeling**, and **business intelligence**, I specialize in:  
-✔ AI-powered **financial modeling & investment strategies**  
-✔ **ML solutions** for manufacturing, R&D, and process optimization  
-✔ **Big Data & Cloud Technologies** (AWS, GCP, Hadoop, Spark)   
 
+I am a Data Scientist with 13+ years of experience in Engineering, Science, and AI-driven problem-solving. Passionate about leveraging Data Science techniques to drive business impact, I specialize in extracting meaningful insights and translating complex data into actionable strategies for stakeholders through advanced analytics and visual storytelling. With a systematic and creative approach, I aim to optimize processes, enhance decision-making, and deliver measurable value to organizations. I am committed to continuous learning, innovation, and professional growth in the evolving world of AI and Data Science.
 ---
 
 ## 🛠 **Technical Skills**
